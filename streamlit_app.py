@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import plotly.graph_objects as go
-import time
+import time 
 
 # ---------------- Page setup ----------------
 st.set_page_config(page_title="4D Hypercube Explorer", layout="wide")
